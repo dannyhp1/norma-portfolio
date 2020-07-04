@@ -20,6 +20,18 @@ module.exports = {
       name: 'YouTube',
       url: 'https://youtube.com/narmoo',
     },
+    {
+      name: 'Facebook',
+      url: 'https://www.facebook.com/normaisninja',
+    },
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/cholanorma/',
+    },
+    {
+      name: 'Spotify',
+      url: 'https://open.spotify.com/user/1277992?si=L0c4kOCqSSKICBPkUqSLUQ',
+    },
   ],
 
   navLinks: [

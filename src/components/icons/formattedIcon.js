@@ -4,6 +4,7 @@ import {
   IconAppStore,
   IconCodepen,
   IconExternal,
+  IconFacebook,
   IconFolder,
   IconFork,
   IconGitHub,
@@ -13,6 +14,7 @@ import {
   IconLocation,
   IconLogo,
   IconPlayStore,
+  IconSpotify,
   IconStar,
   IconTwitter,
   IconYouTube,
@@ -27,6 +29,8 @@ const FormattedIcon = ({ name }) => {
       return <IconCodepen />;
     case 'External':
       return <IconExternal />;
+    case 'Facebook':
+      return <IconFacebook />;
     case 'Folder':
       return <IconFolder />;
     case 'Fork':
@@ -45,6 +49,8 @@ const FormattedIcon = ({ name }) => {
       return <IconLogo />;
     case 'PlayStore':
       return <IconPlayStore />;
+    case 'Spotify':
+      return <IconSpotify />;
     case 'Star':
       return <IconStar />;
     case 'YouTube':
