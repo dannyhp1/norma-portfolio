@@ -1,6 +1,6 @@
 ---
 title: 'Get In Touch'
-buttonText: 'Say Hello'
+buttonText: 'Send me an Email 📧'
 ---
 
-Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+I'm only a message away! Contact me if you would like a photoshoot, collab or just to hang out! I've made it easy for you. :)
