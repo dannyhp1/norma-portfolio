@@ -1,7 +1,7 @@
 ---
 title: '👋 Hi, I am'
 name: 'Norma Vazquez'
-subtitle: '☕ Coffee is my addiction.'
+subtitle: 'Coffee is my addiction ☕.'
 buttonText: 'Get In Touch'
 ---
 
