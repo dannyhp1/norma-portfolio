@@ -116,10 +116,10 @@ const ArchivePage = ({ location, data }) => {
       <StyledMainContainer>
         <header ref={revealTitle}>
           <h1 className="big-title">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <p className="subtitle">Page coming soon!</p>
         </header>
 
-        <StyledTableContainer ref={revealTable}>
+        {/* <StyledTableContainer ref={revealTable}>
           <StyledTable>
             <thead>
               <tr>
@@ -209,7 +209,7 @@ const ArchivePage = ({ location, data }) => {
                 })}
             </tbody>
           </StyledTable>
-        </StyledTableContainer>
+        </StyledTableContainer> */}
       </StyledMainContainer>
     </Layout>
   );
