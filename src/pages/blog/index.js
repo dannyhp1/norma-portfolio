@@ -123,19 +123,14 @@ const blogPage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>blog | Norma Vazquez</title>
-        <link rel="canonical" href="https://brittanychiang.com/blog" />
+        <title>Blog | Norma Vazquez</title>
+        <link rel="canonical" href="https://normavazquez.com/blog" />
       </Helmet>
 
       <StyledMainContainer>
         <header>
-          <h1 className="big-title">blog</h1>
-          <p className="subtitle">
-            <a href="/" rel="noopener noreferrer">
-              a collection of memories
-            </a>
-          </p>
-          <p className="subtitle">Coming soon!</p>
+          <h1 className="big-title">Blog</h1>
+          <p className="subtitle">a collection of my thoughts</p>
         </header>
 
         <StyledGrid>
