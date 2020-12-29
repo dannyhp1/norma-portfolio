@@ -80,7 +80,7 @@ const Footer = () => {
         </StyledSocialList>
       </StyledSocial>
       <StyledMetadata tabindex="-1">
-        <div>Norma Vazquez © 2020</div>
+        <div>Norma Vazquez © 2021</div>
       </StyledMetadata>
     </StyledContainer>
   );
